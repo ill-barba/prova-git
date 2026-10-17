@@ -7,5 +7,11 @@ Questo archivio contiene tutte le ricette preferite di Ale
 * spaghetti aglio, olio e peperoncino
 * risotto ai funghi
 * pennette alla carbonara
+
+## Zuppe
+
 * minestrone di verdure
+
+## Secondi
+
 * salmone al cartoccio
