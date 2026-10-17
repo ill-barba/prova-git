@@ -8,3 +8,4 @@ uno dei miei piatti preferiti, lo mangerei sempre
 *Aglio 
 *Olio
 *Peperoncino
+*Prezzemolo
