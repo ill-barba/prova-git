@@ -1,11 +1,11 @@
-#Spaghetti aglio, olio e peperoncino
+# Spaghetti aglio, olio e peperoncino
 
 uno dei miei piatti preferiti, lo mangerei sempre
 
-##Ingredienti
+## Ingredienti
 
-*Spaghetti 
-*Aglio 
-*Olio
-*Peperoncino
-*Prezzemolo
+* Spaghetti 
+* Aglio 
+* Olio
+* Peperoncino
+* Prezzemolo
