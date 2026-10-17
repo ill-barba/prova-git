@@ -1,3 +1,4 @@
-#Ricette di Ale
+# Ricette di Ale
 
-*spaghetti aglio, olio e peperoncino
+* spaghetti aglio, olio e peperoncino
+* pennette alla carbonara
